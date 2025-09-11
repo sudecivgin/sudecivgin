@@ -3,9 +3,7 @@
 <h3 align="center">⭐Growing as a developer, one project at a time</h3>
 ---
 
-<p align="center">
   <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="400" alt="AI Penguin"/>
-</p>
 
 ---
 
@@ -14,7 +12,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="40"/>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40"/>
