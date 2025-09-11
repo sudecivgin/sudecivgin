@@ -2,6 +2,7 @@
 <h1 align="center">Hi! I'm Sude</h1>
 <h3 align="center">⭐Growing as a developer, one project at a time</h3>
 ---
+
 <p align="center">
   <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="400" alt="AI Penguin"/>
 </p>
@@ -28,11 +29,11 @@
 
  
 ### 📊 GitHub Stats:
+
 <p align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudecivgin&layout=compact&theme=radical)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sudecivgin&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=sudecivgin&theme=radical&hide_border=radical)
 </p>
 
