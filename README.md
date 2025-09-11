@@ -1,13 +1,11 @@
 
 <h1 align="center">Hi! I'm Sude</h1>
 <h3 align="center">⭐Growing as a developer, one project at a time</h3>
+
 ---
-
 <p align="center">
-  <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="400" alt="AI Penguin"/>
+  <img src="https://i.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="400" alt="AI Penguin"/>
 </p>
-
-
 ---
 
 ### 🚀 Languages and Tools:
@@ -21,20 +19,24 @@
 </p>
 
 
- ---
-
-🔮 I’m working on **React Native and Backend Development**  
-🔭 I’m currently learning **Firebase & SQL & Node.js**  
 ---
 
+🔮 I’m working on **React Native and Backend Development** 
+🔭 I’m currently learning **Firebase, SQL, Node.js** 
+---
  
 ### 📊 GitHub Stats:
 
 <p align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudecivgin&layout=compact&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sudecivgin&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=sudecivgin&theme=radical&hide_border=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudecivgin&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudecivgin&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sudecivgin&theme=radical&hide_border=true" />
 </p>
 
 ---
