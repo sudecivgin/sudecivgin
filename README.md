@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi, I'm Sude!</h1>
-<h3>⭐Growing as a developer, one project at a time</h3>
+<h1 align="center">⭐Hi, I'm Sude!</h1>
 
 <br/>
 <p align="center">
