@@ -35,7 +35,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sudecivgin&theme=radical&hide_border=true)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=sudecivgin&theme=dracula)
 
 ---
 
