@@ -2,9 +2,9 @@
 <h1 align="center">Hi, I'm Sude!</h1>
 <h3>⭐Growing as a developer, one project at a time</h3>
 
-
+<br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sudecivgin/sudecivgin/main/GIF.gif" width="300" alt="AI Penguin"/>
+  <img src="https://raw.githubusercontent.com/sudecivgin/sudecivgin/main/GIF.gif" width="310" alt="AI Penguin"/>
 </p>
 
 ### 🚀 Languages and Tools:
