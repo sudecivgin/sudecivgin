@@ -16,12 +16,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40"/>
 </p>
 
-
 ---
 
-🔮 I’m working on React Native and Backend Development
+🔮 I’m working on **React Native and Backend Development**
 
-🔭 I’m currently learning Firebase, SQL, Node.js  
+🔭 I’m currently learning **Firebase, SQL, Node.js**
 
 ---
 
