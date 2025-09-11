@@ -2,13 +2,15 @@
 <h1 align="center">Hi! I'm Sude</h1>
 <h3 align="center">⭐Growing as a developer, one project at a time</h3>
 ---
-
+<p align="center">
   <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="400" alt="AI Penguin"/>
+</p>
+
 
 ---
 
 ### 🚀 Languages and Tools:
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40"/>
@@ -26,18 +28,21 @@
 
  
 ### 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudecivgin&layout=compact&theme=dark)
+<p align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudecivgin&layout=compact&theme=radical)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sudecivgin&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sudecivgin&theme=radical&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=sudecivgin&theme=radical&hide_border=radical)
+</p>
 
 ---
 
 ### 🌐 Connect with me:
+<p align="center">
 <a href="mailto:cvgnsude57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sudecivgin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+</p>
 
  ---
  
