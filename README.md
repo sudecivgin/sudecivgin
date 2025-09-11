@@ -3,9 +3,8 @@
 <h3 align="center">⭐Growing as a developer, one project at a time</h3>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="400" alt="AI Penguin"/>
+  <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="400" alt="AI Penguin"/>
 </p>
-
 
 ### 🚀 Languages and Tools:
 <p align="center">
