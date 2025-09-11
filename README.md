@@ -23,7 +23,7 @@
 
 🔮 I’m working on **React Native and Backend Development**
 
-🔭 I’m currently learning **Firebase, SQL, Node.js**
+🔭 I’m currently learning **Firebase, SQL, React Native**
 
 ---
 
