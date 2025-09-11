@@ -2,11 +2,10 @@
 <h1 align="center">Hi! I'm Sude</h1>
 <h3 align="center">⭐Growing as a developer, one project at a time</h3>
 
----
 <p align="center">
   <img src="https://i.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="400" alt="AI Penguin"/>
 </p>
----
+
 
 ### 🚀 Languages and Tools:
 <p align="center">
@@ -21,9 +20,12 @@
 
 ---
 
-🔮 I’m working on **React Native and Backend Development** 
-🔭 I’m currently learning **Firebase, SQL, Node.js** 
+🔮 I’m working on React Native and Backend Development
+
+🔭 I’m currently learning Firebase, SQL, Node.js  
+
 ---
+
  
 ### 📊 GitHub Stats:
 
