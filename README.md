@@ -46,7 +46,7 @@
 ### 🌐 Connect with me:
 <p align="center">
 <a href="mailto:cvgnsude57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sudecivgin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sude-civgin-964751297/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 </p>
 
  ---
