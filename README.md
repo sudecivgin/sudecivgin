@@ -1,7 +1,3 @@
-
-<h1 align="center">⭐Hi, I'm Sude!</h1>
-
-<br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/sudecivgin/sudecivgin/main/GIF.gif" width="310" alt="AI Penguin"/>
 </p>
@@ -29,14 +25,6 @@
 
  
 ### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudecivgin&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudecivgin&show_icons=true&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sudecivgin&theme=radical&hide_border=radical" />
