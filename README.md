@@ -13,17 +13,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
+
   </p>
 
 ---
 
-🔮 I’m working on **React Native and Backend Development**
+### 🔮 What I'm Working On
+- 📱 Mobile Development with React Native  
+- 🧠 Backend Development & API integration  
+- 📊 Data Science & Machine Learning *(learning phase)*  
+- 🤖 Deep Learning fundamentals with Python *(learning phase)*  
 
-🔭 I’m currently learning **Firebase, SQL, React Native**
 
 ---
 
- 
 ### 📊 GitHub Stats:
 
 <p align="center">
