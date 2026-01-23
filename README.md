@@ -23,8 +23,6 @@
 - 📱 Mobile Development with React Native  
 - 🧠 Backend Development & API integration  
 - 📊 Data Science & Machine Learning *(learning phase)*  
-- 🤖 Deep Learning fundamentals with Python *(learning phase)*  
-
 
 ---
 
