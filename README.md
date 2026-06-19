@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sudecivgin&theme=radical&hide_border=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cvgnsude57&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudecivgin&theme=github_dark" />
 </p>
 
 ---
