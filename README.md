@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZ4eTN6bHdpeHpsejVxYXZvNnQ3a2ozNGhla3h4cDUwa2JqczZmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif" width="400" />
 </p>
 
 ### 🚀 Languages and Tools:
